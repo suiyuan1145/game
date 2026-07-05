@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <!-- 个人中心页：展示本地存储中的账户、购物车、已购游戏和订单信息 -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>星穹游戏商城 - 个人中心</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- 统一页面布局，active 类标记当前所在页面 -->
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">🎮 星穹商城</div>
+      <div class="subtitle">Profile Center</div>
+      <a class="nav-link" href="index.html">游戏列表</a>
+      <a class="nav-link active" href="profile.html">个人中心</a>
+      <div class="version">v1.0.0</div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <h1>个人中心</h1>
+          <p>账户余额、购物车、已购游戏、订单记录都在这里。</p>
+        </div>
+        <a class="outline link-button" href="index.html">继续购物</a>
+      </header>
+
+      <section class="profile-page">
+        <!-- 数据概览卡片：由 JS 填入用户名、余额、购物车数量、已购数量 -->
+        <div class="metrics">
+          <div><span>账户</span><strong id="profileUser">游客</strong></div>
+          <div><span>余额</span><strong>￥<b id="profileBalance">9999.00</b></strong></div>
+          <div><span>购物车</span><strong id="cartMetric">0 件</strong></div>
+          <div><span>已购游戏</span><strong id="ownedMetric">0 款</strong></div>
+        </div>
+
+        <!-- 两栏布局：左侧购物车，右侧已购买游戏 -->
+        <div class="two-column">
+          <section class="profile-card">
+            <h2>购物车</h2>
+            <!-- 购物车列表由 JS 根据 state.cart 渲染 -->
+            <div id="cartList"></div>
+            <button class="primary" id="profileCheckout">立即支付</button>
+          </section>
+
+          <section class="profile-card">
+            <h2>已购买游戏</h2>
+            <!-- 已购买游戏由 JS 根据 state.owned 渲染，并提供启动链接 -->
+            <div id="ownedList"></div>
+          </section>
+        </div>
+
+        <!-- 订单记录：由 JS 根据 state.orders 渲染 -->
+        <section class="profile-card">
+          <h2>订单记录</h2>
+          <div id="orderList"></div>
+        </section>
+      </section>
+    </main>
+  </div>
+  <div class="toast" id="toast"></div>
+  <!-- 公共脚本会根据当前页面存在的 DOM 元素自动执行对应渲染函数 -->
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>天空射击大战</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a2e;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: 'Segoe UI', 'Arial', sans-serif;
+            overflow: hidden;
+        }
+
+        .game-wrapper {
+            position: relative;
+            border: 3px solid #00f7ff;
+            border-radius: 12px;
+            box-shadow: 0 0 40px rgba(0, 247, 255, 0.3), inset 0 0 40px rgba(0, 247, 255, 0.05);
+        }
+
+        canvas {
+            display: block;
+            border-radius: 10px;
+            cursor: none;
+            background: #0f0f3a;
+        }
+
+        .hud {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 20px;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .hud-item {
+            color: #fff;
+            font-size: 18px;
+            font-weight: bold;
+            text-shadow: 0 0 10px rgba(0, 247, 255, 0.5);
+            background: rgba(0, 0, 0, 0.5);
+            padding: 6px 16px;
+            border-radius: 8px;
+            border: 1px solid rgba(0, 247, 255, 0.3);
+            backdrop-filter: blur(4px);
+        }
+
+        .hud-item span {
+            color: #00f7ff;
+        }
+
+        .overlay {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.75);
+            backdrop-filter: blur(6px);
+            border-radius: 10px;
+            z-index: 20;
+            transition: opacity 0.4s ease;
+        }
+
+        .overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .overlay h1 {
+            color: #00f7ff;
+            font-size: 52px;
+            text-shadow: 0 0 30px rgba(0, 247, 255, 0.6);
+            margin-bottom: 12px;
+            letter-spacing: 4px;
+        }
+
+        .overlay .subtitle {
+            color: #aaa;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        .overlay .final-score {
+            color: #fff;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .overlay .final-score span {
+            color: #ffd700;
+            font-size: 40px;
+        }
+
+        .btn {
+            padding: 14px 48px;
+            font-size: 20px;
+            font-weight: bold;
+            color: #fff;
+            background: linear-gradient(135deg, #00c6ff, #0072ff);
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            pointer-events: all;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 20px rgba(0, 114, 255, 0.4);
+            letter-spacing: 2px;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px) scale(1.03);
+            box-shadow: 0 0 35px rgba(0, 114, 255, 0.7);
+        }
+
+        .controls-info {
+            color: #888;
+            font-size: 14px;
+            margin-top: 24px;
+            text-align: center;
+            line-height: 1.8;
+        }
+
+        .controls-info kbd {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2px 10px;
+            border-radius: 4px;
+            color: #00f7ff;
+            border: 1px solid rgba(0, 247, 255, 0.3);
+            font-family: inherit;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="game-wrapper">
+        <canvas id="gameCanvas" width="900" height="650"></canvas>
+        <div class="hud">
+            <div class="hud-item">生命: <span id="livesDisplay">1000</span></div>
+            <div class="hud-item">得分: <span id="scoreDisplay">0</span></div>
+            <div class="hud-item">等级: <span id="levelDisplay">100</span></div>
+        </div>
+        <div class="overlay" id="startOverlay">
+            <h1>天空射击</h1>
+            <div class="subtitle">消灭入侵者的太空大战</div>
+            <button class="btn" id="startBtn">开始游戏</button>
+            <div class="controls-info">
+                <kbd>&larr;</kbd> <kbd>&rarr;</kbd> 或 <kbd>A</kbd> <kbd>D</kbd> 移动 | <kbd>空格</kbd> 射击<br>
+                自动射击按 <kbd>F</kbd> 切换
+            </div>
+        </div>
+        <div class="overlay hidden" id="gameOverOverlay">
+            <h1>游戏结束</h1>
+            <div class="final-score">得分: <span id="finalScore">0</span></div>
+            <button class="btn" id="restartBtn">再来一局</button>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+
+</html>
