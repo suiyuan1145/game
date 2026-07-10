@@ -1,0 +1,1768 @@
+{
+  "jotaro": {
+    "key": "jotaro",
+    "names": [
+      "Jotaro",
+      "空条承太郎"
+    ],
+    "scale": 3.1,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro",
+    "animations": {
+      "idle": [
+        {
+          "src": "mugen/jotaro/idle_00_0_0.png",
+          "duration": 6,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 34,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/idle_01_0_1.png",
+          "duration": 7,
+          "axisX": 17,
+          "axisY": 54,
+          "width": 34,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_02_0_2.png",
+          "duration": 7,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_03_0_3.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_04_0_4.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_05_0_5.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 53,
+          "width": 37,
+          "height": 56
+        }
+      ],
+      "walk": [
+        {
+          "src": "mugen/jotaro/walk_00_20_0.png",
+          "duration": 4,
+          "axisX": 18,
+          "axisY": 52,
+          "width": 37,
+          "height": 55
+        },
+        {
+          "src": "mugen/jotaro/walk_01_20_1.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 53,
+          "width": 40,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/walk_02_20_2.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 53,
+          "width": 46,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/walk_03_20_3.png",
+          "duration": 5,
+          "axisX": 20,
+          "axisY": 51,
+          "width": 40,
+          "height": 55
+        },
+        {
+          "src": "mugen/jotaro/walk_04_20_4.png",
+          "duration": 4,
+          "axisX": 18,
+          "axisY": 52,
+          "width": 37,
+          "height": 55
+        },
+        {
+          "src": "mugen/jotaro/walk_05_20_5.png",
+          "duration": 4,
+          "axisX": 21,
+          "axisY": 53,
+          "width": 42,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/walk_06_20_6.png",
+          "duration": 4,
+          "axisX": 23,
+          "axisY": 53,
+          "width": 46,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/walk_07_20_7.png",
+          "duration": 5,
+          "axisX": 18,
+          "axisY": 52,
+          "width": 36,
+          "height": 55
+        }
+      ],
+      "jump": [
+        {
+          "src": "mugen/jotaro/jump_00_6_0.png",
+          "duration": 3,
+          "axisX": 21,
+          "axisY": 44,
+          "width": 43,
+          "height": 47
+        }
+      ],
+      "guard": [
+        {
+          "src": "mugen/jotaro/guard_00_120_1.png",
+          "duration": 3,
+          "axisX": 12,
+          "axisY": 52,
+          "width": 30,
+          "height": 55
+        }
+      ],
+      "punch": [
+        {
+          "src": "mugen/jotaro/punch_00_200_0.png",
+          "duration": 4,
+          "axisX": 18,
+          "axisY": 53,
+          "width": 35,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/punch_01_200_1.png",
+          "duration": 3,
+          "axisX": 22,
+          "axisY": 53,
+          "width": 53,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/punch_02_200_2.png",
+          "duration": 3,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 42,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/punch_03_200_2.png",
+          "duration": 7,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 42,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/punch_04_200_3.png",
+          "duration": 5,
+          "axisX": 13,
+          "axisY": 53,
+          "width": 30,
+          "height": 56
+        }
+      ],
+      "kick": [
+        {
+          "src": "mugen/jotaro/idle_00_0_0.png",
+          "duration": 6,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 34,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/idle_01_0_1.png",
+          "duration": 7,
+          "axisX": 17,
+          "axisY": 54,
+          "width": 34,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_02_0_2.png",
+          "duration": 7,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_03_0_3.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_04_0_4.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 54,
+          "width": 37,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/idle_05_0_5.png",
+          "duration": 8,
+          "axisX": 20,
+          "axisY": 53,
+          "width": 37,
+          "height": 56
+        }
+      ],
+      "hit": [
+        {
+          "src": "mugen/jotaro/hit_00_0_8.png",
+          "duration": 4,
+          "axisX": 15,
+          "axisY": 53,
+          "width": 34,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/hit_01_0_9.png",
+          "duration": 4,
+          "axisX": 13,
+          "axisY": 53,
+          "width": 32,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/hit_02_0_10.png",
+          "duration": 4,
+          "axisX": 14,
+          "axisY": 53,
+          "width": 32,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/hit_03_0_11.png",
+          "duration": 4,
+          "axisX": 12,
+          "axisY": 52,
+          "width": 30,
+          "height": 55
+        }
+      ],
+      "special": [
+        {
+          "src": "mugen/jotaro/special_00_200_31.png",
+          "duration": 20,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 34,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/special_01_200_32.png",
+          "duration": 4,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 32,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/special_02_200_33.png",
+          "duration": 120,
+          "axisX": 19,
+          "axisY": 54,
+          "width": 36,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/special_03_200_34.png",
+          "duration": 77,
+          "axisX": 17,
+          "axisY": 54,
+          "width": 34,
+          "height": 57
+        },
+        {
+          "src": "mugen/jotaro/special_04_200_32.png",
+          "duration": 4,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 32,
+          "height": 56
+        },
+        {
+          "src": "mugen/jotaro/special_05_200_31.png",
+          "duration": 4,
+          "axisX": 17,
+          "axisY": 53,
+          "width": 34,
+          "height": 56
+        }
+      ]
+    }
+  },
+  "dio": {
+    "key": "dio",
+    "names": [
+      "Dio",
+      "DIO",
+      "迪奥"
+    ],
+    "scale": 3.15,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Dio",
+    "animations": {
+      "idle": [
+        {
+          "src": "mugen/dio/idle_00_0_7.png",
+          "duration": 8,
+          "axisX": 11,
+          "axisY": 60,
+          "width": 28,
+          "height": 62
+        },
+        {
+          "src": "mugen/dio/idle_01_0_8.png",
+          "duration": 8,
+          "axisX": 11,
+          "axisY": 60,
+          "width": 28,
+          "height": 62
+        },
+        {
+          "src": "mugen/dio/idle_02_0_9.png",
+          "duration": 8,
+          "axisX": 11,
+          "axisY": 60,
+          "width": 28,
+          "height": 62
+        },
+        {
+          "src": "mugen/dio/idle_03_0_10.png",
+          "duration": 8,
+          "axisX": 11,
+          "axisY": 60,
+          "width": 28,
+          "height": 62
+        }
+      ],
+      "walk": [
+        {
+          "src": "mugen/dio/walk_00_20_0.png",
+          "duration": 7,
+          "axisX": 13,
+          "axisY": 59,
+          "width": 30,
+          "height": 61
+        },
+        {
+          "src": "mugen/dio/walk_01_20_1.png",
+          "duration": 7,
+          "axisX": 16,
+          "axisY": 58,
+          "width": 36,
+          "height": 60
+        },
+        {
+          "src": "mugen/dio/walk_02_20_2.png",
+          "duration": 7,
+          "axisX": 14,
+          "axisY": 59,
+          "width": 29,
+          "height": 60
+        },
+        {
+          "src": "mugen/dio/walk_03_20_3.png",
+          "duration": 7,
+          "axisX": 17,
+          "axisY": 59,
+          "width": 37,
+          "height": 60
+        },
+        {
+          "src": "mugen/dio/walk_04_20_4.png",
+          "duration": 7,
+          "axisX": 19,
+          "axisY": 61,
+          "width": 34,
+          "height": 63
+        },
+        {
+          "src": "mugen/dio/walk_05_20_5.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 60,
+          "width": 30,
+          "height": 62
+        }
+      ],
+      "jump": [
+        {
+          "src": "mugen/dio/jump_00_10_0.png",
+          "duration": 5,
+          "axisX": 20,
+          "axisY": 49,
+          "width": 42,
+          "height": 50
+        }
+      ],
+      "guard": [
+        {
+          "src": "mugen/dio/guard_00_120_0.png",
+          "duration": 2,
+          "axisX": 11,
+          "axisY": 60,
+          "width": 23,
+          "height": 61
+        }
+      ],
+      "punch": [
+        {
+          "src": "mugen/dio/punch_00_200_35.png",
+          "duration": 4,
+          "axisX": 12,
+          "axisY": 59,
+          "width": 27,
+          "height": 61
+        },
+        {
+          "src": "mugen/dio/punch_01_200_36.png",
+          "duration": 2,
+          "axisX": 21,
+          "axisY": 53,
+          "width": 41,
+          "height": 55
+        },
+        {
+          "src": "mugen/dio/punch_02_200_37.png",
+          "duration": 2,
+          "axisX": 15,
+          "axisY": 45,
+          "width": 44,
+          "height": 47
+        },
+        {
+          "src": "mugen/dio/punch_03_200_39.png",
+          "duration": 2,
+          "axisX": 17,
+          "axisY": 55,
+          "width": 50,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/punch_04_200_40.png",
+          "duration": 5,
+          "axisX": 17,
+          "axisY": 55,
+          "width": 51,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/punch_05_200_40.png",
+          "duration": 5,
+          "axisX": 17,
+          "axisY": 55,
+          "width": 51,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/punch_06_200_34.png",
+          "duration": 7,
+          "axisX": 10,
+          "axisY": 60,
+          "width": 31,
+          "height": 63
+        }
+      ],
+      "kick": [
+        {
+          "src": "mugen/dio/kick_00_200_58.png",
+          "duration": 5,
+          "axisX": 10,
+          "axisY": 57,
+          "width": 31,
+          "height": 59
+        },
+        {
+          "src": "mugen/dio/kick_01_200_59.png",
+          "duration": 2,
+          "axisX": 10,
+          "axisY": 54,
+          "width": 42,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/kick_02_200_60.png",
+          "duration": 3,
+          "axisX": 10,
+          "axisY": 40,
+          "width": 65,
+          "height": 43
+        },
+        {
+          "src": "mugen/dio/kick_03_200_61.png",
+          "duration": 5,
+          "axisX": 10,
+          "axisY": 48,
+          "width": 51,
+          "height": 51
+        },
+        {
+          "src": "mugen/dio/kick_04_200_62.png",
+          "duration": 20,
+          "axisX": 16,
+          "axisY": 36,
+          "width": 54,
+          "height": 39
+        }
+      ],
+      "hit": [
+        {
+          "src": "mugen/dio/hit_00_6000_0.png",
+          "duration": 4,
+          "axisX": 16,
+          "axisY": 62,
+          "width": 35,
+          "height": 63
+        }
+      ],
+      "special": [
+        {
+          "src": "mugen/dio/special_00_200_86.png",
+          "duration": 5,
+          "axisX": 10,
+          "axisY": 59,
+          "width": 25,
+          "height": 60
+        },
+        {
+          "src": "mugen/dio/special_01_200_89.png",
+          "duration": 10,
+          "axisX": 21,
+          "axisY": 56,
+          "width": 42,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/special_02_200_87.png",
+          "duration": 4,
+          "axisX": 21,
+          "axisY": 55,
+          "width": 42,
+          "height": 56
+        },
+        {
+          "src": "mugen/dio/special_03_200_88.png",
+          "duration": 5,
+          "axisX": 21,
+          "axisY": 56,
+          "width": 42,
+          "height": 57
+        },
+        {
+          "src": "mugen/dio/special_04_200_89.png",
+          "duration": 25,
+          "axisX": 21,
+          "axisY": 56,
+          "width": 42,
+          "height": 57
+        }
+      ]
+    }
+  },
+  "jolyne": {
+    "key": "jolyne",
+    "names": [
+      "Jolyne",
+      "徐伦",
+      "空条徐伦"
+    ],
+    "scale": 3.15,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jolyne",
+    "animations": {}
+  },
+  "giorno": {
+    "key": "giorno",
+    "names": [
+      "Giorno",
+      "Giorno3",
+      "乔鲁诺"
+    ],
+    "scale": 3.05,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Giorno3",
+    "animations": {
+      "idle": [
+        {
+          "src": "mugen/giorno/idle_00_0_0.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_01_0_4.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_02_0_1.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_03_0_2.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_04_0_3.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_05_0_5.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_06_0_6.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_07_0_7.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_08_0_0.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_09_0_1.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_10_0_2.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/idle_11_0_3.png",
+          "duration": 10,
+          "axisX": 12,
+          "axisY": 54,
+          "width": 25,
+          "height": 57
+        }
+      ],
+      "walk": [
+        {
+          "src": "mugen/giorno/walk_00_20_2.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 49,
+          "width": 41,
+          "height": 52
+        },
+        {
+          "src": "mugen/giorno/walk_01_20_3.png",
+          "duration": 4,
+          "axisX": 16,
+          "axisY": 43,
+          "width": 32,
+          "height": 46
+        },
+        {
+          "src": "mugen/giorno/walk_02_20_4.png",
+          "duration": 4,
+          "axisX": 22,
+          "axisY": 47,
+          "width": 44,
+          "height": 50
+        },
+        {
+          "src": "mugen/giorno/walk_03_20_5.png",
+          "duration": 4,
+          "axisX": 22,
+          "axisY": 48,
+          "width": 45,
+          "height": 51
+        },
+        {
+          "src": "mugen/giorno/walk_04_20_6.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 50,
+          "width": 40,
+          "height": 53
+        },
+        {
+          "src": "mugen/giorno/walk_05_20_7.png",
+          "duration": 4,
+          "axisX": 16,
+          "axisY": 47,
+          "width": 33,
+          "height": 50
+        },
+        {
+          "src": "mugen/giorno/walk_06_20_0.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 49,
+          "width": 41,
+          "height": 52
+        },
+        {
+          "src": "mugen/giorno/walk_07_20_1.png",
+          "duration": 4,
+          "axisX": 24,
+          "axisY": 45,
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "jump": [
+        {
+          "src": "mugen/giorno/jump_00_5_0.png",
+          "duration": 3,
+          "axisX": 13,
+          "axisY": 39,
+          "width": 26,
+          "height": 42
+        }
+      ],
+      "guard": [
+        {
+          "src": "mugen/giorno/guard_00_180_0.png",
+          "duration": 5,
+          "axisX": 15,
+          "axisY": 54,
+          "width": 30,
+          "height": 57
+        }
+      ],
+      "punch": [
+        {
+          "src": "mugen/giorno/punch_00_200_0.png",
+          "duration": 5,
+          "axisX": 12,
+          "axisY": 53,
+          "width": 25,
+          "height": 56
+        },
+        {
+          "src": "mugen/giorno/punch_01_200_1.png",
+          "duration": 3,
+          "axisX": 14,
+          "axisY": 54,
+          "width": 41,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/punch_02_200_2.png",
+          "duration": 4,
+          "axisX": 14,
+          "axisY": 54,
+          "width": 35,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/punch_03_200_2.png",
+          "duration": 5,
+          "axisX": 14,
+          "axisY": 54,
+          "width": 35,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/punch_04_200_3.png",
+          "duration": 5,
+          "axisX": 16,
+          "axisY": 54,
+          "width": 26,
+          "height": 57
+        }
+      ],
+      "kick": [
+        {
+          "src": "mugen/giorno/kick_00_230_1.png",
+          "duration": 1,
+          "axisX": 34,
+          "axisY": 34,
+          "width": 69,
+          "height": 69
+        },
+        {
+          "src": "mugen/giorno/kick_01_230_2.png",
+          "duration": 1,
+          "axisX": 37,
+          "axisY": 38,
+          "width": 75,
+          "height": 76
+        },
+        {
+          "src": "mugen/giorno/kick_02_230_3.png",
+          "duration": 1,
+          "axisX": 45,
+          "axisY": 45,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "src": "mugen/giorno/kick_03_230_4.png",
+          "duration": 1,
+          "axisX": 40,
+          "axisY": 46,
+          "width": 81,
+          "height": 92
+        },
+        {
+          "src": "mugen/giorno/kick_04_230_5.png",
+          "duration": 1,
+          "axisX": 25,
+          "axisY": 25,
+          "width": 51,
+          "height": 50
+        },
+        {
+          "src": "mugen/giorno/kick_05_230_6.png",
+          "duration": 1,
+          "axisX": 31,
+          "axisY": 17,
+          "width": 62,
+          "height": 34
+        },
+        {
+          "src": "mugen/giorno/kick_06_230_7.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 33,
+          "width": 82,
+          "height": 67
+        },
+        {
+          "src": "mugen/giorno/kick_07_230_8.png",
+          "duration": 1,
+          "axisX": 42,
+          "axisY": 36,
+          "width": 84,
+          "height": 73
+        },
+        {
+          "src": "mugen/giorno/kick_08_230_9.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 37,
+          "width": 82,
+          "height": 75
+        },
+        {
+          "src": "mugen/giorno/kick_09_230_10.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 36,
+          "width": 83,
+          "height": 73
+        }
+      ],
+      "hit": [
+        {
+          "src": "mugen/giorno/hit_00_180_0.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 54,
+          "width": 30,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/hit_01_180_1.png",
+          "duration": 8,
+          "axisX": 16,
+          "axisY": 54,
+          "width": 31,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/hit_02_180_11.png",
+          "duration": 8,
+          "axisX": 17,
+          "axisY": 54,
+          "width": 32,
+          "height": 57
+        },
+        {
+          "src": "mugen/giorno/hit_03_180_12.png",
+          "duration": 8,
+          "axisX": 17,
+          "axisY": 54,
+          "width": 32,
+          "height": 57
+        }
+      ],
+      "special": [
+        {
+          "src": "mugen/giorno/special_00_200_25.png",
+          "duration": 5,
+          "axisX": 12,
+          "axisY": 53,
+          "width": 25,
+          "height": 56
+        },
+        {
+          "src": "mugen/giorno/special_01_200_26.png",
+          "duration": 5,
+          "axisX": 13,
+          "axisY": 53,
+          "width": 26,
+          "height": 56
+        },
+        {
+          "src": "mugen/giorno/special_02_200_27.png",
+          "duration": 8,
+          "axisX": 23,
+          "axisY": 44,
+          "width": 47,
+          "height": 47
+        },
+        {
+          "src": "mugen/giorno/special_03_200_28.png",
+          "duration": 8,
+          "axisX": 23,
+          "axisY": 44,
+          "width": 47,
+          "height": 47
+        }
+      ]
+    }
+  },
+  "mista": {
+    "key": "mista",
+    "names": [
+      "Mista",
+      "米斯达"
+    ],
+    "scale": 3.05,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Mista",
+    "animations": {}
+  },
+  "pucci": {
+    "key": "pucci",
+    "names": [
+      "Pucci",
+      "普奇"
+    ],
+    "scale": 3.05,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Pucci",
+    "animations": {
+      "idle": [
+        {
+          "src": "mugen/pucci/idle_00_420_0.png",
+          "duration": 2,
+          "axisX": 59,
+          "axisY": 56,
+          "width": 118,
+          "height": 113
+        },
+        {
+          "src": "mugen/pucci/idle_01_420_1.png",
+          "duration": 2,
+          "axisX": 60,
+          "axisY": 60,
+          "width": 121,
+          "height": 121
+        },
+        {
+          "src": "mugen/pucci/idle_02_420_2.png",
+          "duration": 2,
+          "axisX": 68,
+          "axisY": 78,
+          "width": 137,
+          "height": 156
+        },
+        {
+          "src": "mugen/pucci/idle_03_420_3.png",
+          "duration": 2,
+          "axisX": 105,
+          "axisY": 164,
+          "width": 210,
+          "height": 329
+        },
+        {
+          "src": "mugen/pucci/idle_04_420_4.png",
+          "duration": 2,
+          "axisX": 139,
+          "axisY": 171,
+          "width": 278,
+          "height": 343
+        },
+        {
+          "src": "mugen/pucci/idle_05_420_5.png",
+          "duration": 2,
+          "axisX": 155,
+          "axisY": 172,
+          "width": 310,
+          "height": 344
+        },
+        {
+          "src": "mugen/pucci/idle_06_420_6.png",
+          "duration": 2,
+          "axisX": 165,
+          "axisY": 159,
+          "width": 331,
+          "height": 319
+        },
+        {
+          "src": "mugen/pucci/idle_07_420_7.png",
+          "duration": 2,
+          "axisX": 172,
+          "axisY": 155,
+          "width": 345,
+          "height": 310
+        },
+        {
+          "src": "mugen/pucci/idle_08_420_8.png",
+          "duration": 2,
+          "axisX": 189,
+          "axisY": 165,
+          "width": 379,
+          "height": 330
+        },
+        {
+          "src": "mugen/pucci/idle_09_420_9.png",
+          "duration": 2,
+          "axisX": 185,
+          "axisY": 172,
+          "width": 370,
+          "height": 345
+        },
+        {
+          "src": "mugen/pucci/idle_10_420_10.png",
+          "duration": 2,
+          "axisX": 185,
+          "axisY": 184,
+          "width": 371,
+          "height": 369
+        },
+        {
+          "src": "mugen/pucci/idle_11_420_11.png",
+          "duration": 2,
+          "axisX": 184,
+          "axisY": 194,
+          "width": 369,
+          "height": 389
+        }
+      ],
+      "walk": [
+        {
+          "src": "mugen/pucci/walk_00_8805_13.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 28,
+          "height": 55
+        },
+        {
+          "src": "mugen/pucci/walk_01_8805_24.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 22,
+          "height": 54
+        },
+        {
+          "src": "mugen/pucci/walk_02_8805_35.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 29,
+          "height": 54
+        },
+        {
+          "src": "mugen/pucci/walk_03_8805_46.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 23,
+          "height": 53
+        },
+        {
+          "src": "mugen/pucci/walk_04_8805_57.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 21,
+          "height": 53
+        },
+        {
+          "src": "mugen/pucci/walk_05_8805_68.png",
+          "duration": 9,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 28,
+          "height": 53
+        }
+      ],
+      "jump": [
+        {
+          "src": "mugen/pucci/jump_00_6_1.png",
+          "duration": 3,
+          "axisX": 23,
+          "axisY": 37,
+          "width": 44,
+          "height": 39
+        }
+      ],
+      "guard": [
+        {
+          "src": "mugen/pucci/guard_00_120_1.png",
+          "duration": 1,
+          "axisX": 12,
+          "axisY": 53,
+          "width": 21,
+          "height": 56
+        }
+      ],
+      "punch": [
+        {
+          "src": "mugen/pucci/punch_00_8805_128.png",
+          "duration": 5,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 30,
+          "height": 55
+        },
+        {
+          "src": "mugen/pucci/punch_01_8805_129.png",
+          "duration": 3,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 48,
+          "height": 55
+        },
+        {
+          "src": "mugen/pucci/punch_02_8805_131.png",
+          "duration": 6,
+          "axisX": 11,
+          "axisY": 53,
+          "width": 48,
+          "height": 57
+        },
+        {
+          "src": "mugen/pucci/punch_03_8805_132.png",
+          "duration": 7,
+          "axisX": 11,
+          "axisY": 52,
+          "width": 37,
+          "height": 56
+        }
+      ],
+      "kick": [
+        {
+          "src": "mugen/pucci/kick_00_1051_1.png",
+          "duration": 1,
+          "axisX": 34,
+          "axisY": 33,
+          "width": 69,
+          "height": 69
+        },
+        {
+          "src": "mugen/pucci/kick_01_1051_2.png",
+          "duration": 1,
+          "axisX": 38,
+          "axisY": 38,
+          "width": 75,
+          "height": 76
+        },
+        {
+          "src": "mugen/pucci/kick_02_1051_3.png",
+          "duration": 1,
+          "axisX": 45,
+          "axisY": 44,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "src": "mugen/pucci/kick_03_1051_4.png",
+          "duration": 1,
+          "axisX": 35,
+          "axisY": 45,
+          "width": 81,
+          "height": 92
+        },
+        {
+          "src": "mugen/pucci/kick_04_1051_5.png",
+          "duration": 1,
+          "axisX": 25,
+          "axisY": 24,
+          "width": 51,
+          "height": 50
+        },
+        {
+          "src": "mugen/pucci/kick_05_1051_6.png",
+          "duration": 1,
+          "axisX": 31,
+          "axisY": 16,
+          "width": 62,
+          "height": 34
+        },
+        {
+          "src": "mugen/pucci/kick_06_1051_7.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 32,
+          "width": 82,
+          "height": 67
+        },
+        {
+          "src": "mugen/pucci/kick_07_1051_8.png",
+          "duration": 1,
+          "axisX": 42,
+          "axisY": 35,
+          "width": 84,
+          "height": 73
+        },
+        {
+          "src": "mugen/pucci/kick_08_1051_9.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 36,
+          "width": 82,
+          "height": 75
+        },
+        {
+          "src": "mugen/pucci/kick_09_1051_10.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 35,
+          "width": 83,
+          "height": 73
+        }
+      ],
+      "hit": [
+        {
+          "src": "mugen/pucci/hit_00_8805_99.png",
+          "duration": 4,
+          "axisX": 11,
+          "axisY": 53,
+          "width": 29,
+          "height": 55
+        },
+        {
+          "src": "mugen/pucci/hit_01_8805_100.png",
+          "duration": 4,
+          "axisX": 11,
+          "axisY": 53,
+          "width": 30,
+          "height": 54
+        }
+      ],
+      "special": [
+        {
+          "src": "mugen/pucci/idle_00_420_0.png",
+          "duration": 2,
+          "axisX": 59,
+          "axisY": 56,
+          "width": 118,
+          "height": 113
+        },
+        {
+          "src": "mugen/pucci/idle_01_420_1.png",
+          "duration": 2,
+          "axisX": 60,
+          "axisY": 60,
+          "width": 121,
+          "height": 121
+        },
+        {
+          "src": "mugen/pucci/idle_02_420_2.png",
+          "duration": 2,
+          "axisX": 68,
+          "axisY": 78,
+          "width": 137,
+          "height": 156
+        },
+        {
+          "src": "mugen/pucci/idle_03_420_3.png",
+          "duration": 2,
+          "axisX": 105,
+          "axisY": 164,
+          "width": 210,
+          "height": 329
+        },
+        {
+          "src": "mugen/pucci/idle_04_420_4.png",
+          "duration": 2,
+          "axisX": 139,
+          "axisY": 171,
+          "width": 278,
+          "height": 343
+        },
+        {
+          "src": "mugen/pucci/idle_05_420_5.png",
+          "duration": 2,
+          "axisX": 155,
+          "axisY": 172,
+          "width": 310,
+          "height": 344
+        },
+        {
+          "src": "mugen/pucci/idle_06_420_6.png",
+          "duration": 2,
+          "axisX": 165,
+          "axisY": 159,
+          "width": 331,
+          "height": 319
+        },
+        {
+          "src": "mugen/pucci/idle_07_420_7.png",
+          "duration": 2,
+          "axisX": 172,
+          "axisY": 155,
+          "width": 345,
+          "height": 310
+        },
+        {
+          "src": "mugen/pucci/idle_08_420_8.png",
+          "duration": 2,
+          "axisX": 189,
+          "axisY": 165,
+          "width": 379,
+          "height": 330
+        },
+        {
+          "src": "mugen/pucci/idle_09_420_9.png",
+          "duration": 2,
+          "axisX": 185,
+          "axisY": 172,
+          "width": 370,
+          "height": 345
+        },
+        {
+          "src": "mugen/pucci/idle_10_420_10.png",
+          "duration": 2,
+          "axisX": 185,
+          "axisY": 184,
+          "width": 371,
+          "height": 369
+        },
+        {
+          "src": "mugen/pucci/idle_11_420_11.png",
+          "duration": 2,
+          "axisX": 184,
+          "axisY": 194,
+          "width": 369,
+          "height": 389
+        }
+      ]
+    }
+  },
+  "polnareff": {
+    "key": "polnareff",
+    "names": [
+      "Polnareff",
+      "波鲁那雷夫"
+    ],
+    "scale": 3.05,
+    "source": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Polnareff",
+    "animations": {
+      "idle": [
+        {
+          "src": "mugen/polnareff/idle_00_0_0.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/idle_01_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_02_0_2.png",
+          "duration": 12,
+          "axisX": 15,
+          "axisY": 54,
+          "width": 30,
+          "height": 57
+        },
+        {
+          "src": "mugen/polnareff/idle_03_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_04_0_0.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        }
+      ],
+      "walk": [
+        {
+          "src": "mugen/polnareff/walk_00_20_0.png",
+          "duration": 4,
+          "axisX": 20,
+          "axisY": 51,
+          "width": 41,
+          "height": 54
+        },
+        {
+          "src": "mugen/polnareff/walk_01_20_1.png",
+          "duration": 4,
+          "axisX": 26,
+          "axisY": 46,
+          "width": 52,
+          "height": 49
+        },
+        {
+          "src": "mugen/polnareff/walk_02_20_2.png",
+          "duration": 4,
+          "axisX": 26,
+          "axisY": 49,
+          "width": 52,
+          "height": 52
+        },
+        {
+          "src": "mugen/polnareff/walk_03_20_3.png",
+          "duration": 4,
+          "axisX": 17,
+          "axisY": 50,
+          "width": 35,
+          "height": 53
+        },
+        {
+          "src": "mugen/polnareff/walk_04_20_4.png",
+          "duration": 4,
+          "axisX": 21,
+          "axisY": 51,
+          "width": 42,
+          "height": 54
+        },
+        {
+          "src": "mugen/polnareff/walk_05_20_5.png",
+          "duration": 4,
+          "axisX": 26,
+          "axisY": 44,
+          "width": 52,
+          "height": 47
+        },
+        {
+          "src": "mugen/polnareff/walk_06_20_6.png",
+          "duration": 4,
+          "axisX": 25,
+          "axisY": 49,
+          "width": 51,
+          "height": 52
+        },
+        {
+          "src": "mugen/polnareff/walk_07_20_7.png",
+          "duration": 4,
+          "axisX": 17,
+          "axisY": 51,
+          "width": 35,
+          "height": 54
+        }
+      ],
+      "punch": [
+        {
+          "src": "mugen/polnareff/punch_00_200_0.png",
+          "duration": 8,
+          "axisX": 22,
+          "axisY": 56,
+          "width": 44,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/punch_01_200_1.png",
+          "duration": 3,
+          "axisX": 22,
+          "axisY": 53,
+          "width": 44,
+          "height": 56
+        },
+        {
+          "src": "mugen/polnareff/punch_02_200_2.png",
+          "duration": 3,
+          "axisX": 22,
+          "axisY": 51,
+          "width": 61,
+          "height": 54
+        },
+        {
+          "src": "mugen/polnareff/punch_03_200_3.png",
+          "duration": 8,
+          "axisX": 22,
+          "axisY": 52,
+          "width": 51,
+          "height": 55
+        }
+      ],
+      "kick": [
+        {
+          "src": "mugen/polnareff/kick_00_230_1.png",
+          "duration": 1,
+          "axisX": 34,
+          "axisY": 34,
+          "width": 69,
+          "height": 69
+        },
+        {
+          "src": "mugen/polnareff/kick_01_230_2.png",
+          "duration": 1,
+          "axisX": 37,
+          "axisY": 38,
+          "width": 75,
+          "height": 76
+        },
+        {
+          "src": "mugen/polnareff/kick_02_230_3.png",
+          "duration": 1,
+          "axisX": 45,
+          "axisY": 45,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "src": "mugen/polnareff/kick_03_230_4.png",
+          "duration": 1,
+          "axisX": 40,
+          "axisY": 46,
+          "width": 81,
+          "height": 92
+        },
+        {
+          "src": "mugen/polnareff/kick_04_230_5.png",
+          "duration": 1,
+          "axisX": 25,
+          "axisY": 25,
+          "width": 51,
+          "height": 50
+        },
+        {
+          "src": "mugen/polnareff/kick_05_230_6.png",
+          "duration": 1,
+          "axisX": 31,
+          "axisY": 17,
+          "width": 62,
+          "height": 34
+        },
+        {
+          "src": "mugen/polnareff/kick_06_230_7.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 33,
+          "width": 82,
+          "height": 67
+        },
+        {
+          "src": "mugen/polnareff/kick_07_230_8.png",
+          "duration": 1,
+          "axisX": 42,
+          "axisY": 36,
+          "width": 84,
+          "height": 73
+        },
+        {
+          "src": "mugen/polnareff/kick_08_230_9.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 37,
+          "width": 82,
+          "height": 75
+        },
+        {
+          "src": "mugen/polnareff/kick_09_230_10.png",
+          "duration": 1,
+          "axisX": 41,
+          "axisY": 36,
+          "width": 83,
+          "height": 73
+        }
+      ],
+      "hit": [
+        {
+          "src": "mugen/polnareff/hit_00_0_0.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/hit_01_0_3.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 37,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/hit_02_0_4.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 37,
+          "height": 59
+        }
+      ],
+      "special": [
+        {
+          "src": "mugen/polnareff/special_00_0_0.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        }
+      ],
+      "jump": [
+        {
+          "src": "mugen/polnareff/idle_00_0_0.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/idle_01_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_02_0_2.png",
+          "duration": 12,
+          "axisX": 15,
+          "axisY": 54,
+          "width": 30,
+          "height": 57
+        },
+        {
+          "src": "mugen/polnareff/idle_03_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_04_0_0.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        }
+      ],
+      "guard": [
+        {
+          "src": "mugen/polnareff/idle_00_0_0.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        },
+        {
+          "src": "mugen/polnareff/idle_01_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_02_0_2.png",
+          "duration": 12,
+          "axisX": 15,
+          "axisY": 54,
+          "width": 30,
+          "height": 57
+        },
+        {
+          "src": "mugen/polnareff/idle_03_0_1.png",
+          "duration": 10,
+          "axisX": 15,
+          "axisY": 55,
+          "width": 30,
+          "height": 58
+        },
+        {
+          "src": "mugen/polnareff/idle_04_0_0.png",
+          "duration": 7,
+          "axisX": 15,
+          "axisY": 56,
+          "width": 30,
+          "height": 59
+        }
+      ]
+    }
+  }
+}

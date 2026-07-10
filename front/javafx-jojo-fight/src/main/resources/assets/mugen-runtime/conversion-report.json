@@ -1,0 +1,1711 @@
+{
+  "characters": 94,
+  "usable": 94,
+  "frames": 3026,
+  "discoveryFailures": [],
+  "results": [
+    {
+      "folder": "Jonathan",
+      "key": "jonathan",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jonathan1",
+      "key": "jonathan1",
+      "version": "2.0",
+      "exported": 40,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Vampire Jonathan",
+      "key": "vampire-jonathan",
+      "version": "2.0",
+      "exported": 40,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Dio Brando",
+      "key": "dio-brando",
+      "version": "1.0",
+      "exported": 31,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "boxingDio",
+      "key": "boxingdio",
+      "version": "2.0",
+      "exported": 25,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Anthonio Zeppeli",
+      "key": "anthonio-zeppeli",
+      "version": "1.0",
+      "exported": 17,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Joseph",
+      "key": "joseph",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Joseph Joestar",
+      "key": "joseph-joestar",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Joseph4",
+      "key": "joseph4",
+      "version": "2.0",
+      "exported": 33,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Joseph 5",
+      "key": "joseph-5",
+      "version": "2.0",
+      "exported": 34,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Caesar_Zeppeli",
+      "key": "caesar-zeppeli",
+      "version": "1.0",
+      "exported": 41,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Stroheim",
+      "key": "stroheim",
+      "version": "2.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "LisaLisa",
+      "key": "lisalisa",
+      "version": "2.0",
+      "exported": 24,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Ultimate Kars",
+      "key": "ultimate-kars",
+      "version": "1.0",
+      "exported": 27,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [
+        "kick: missing 230,1",
+        "kick: missing 230,2",
+        "kick: missing 230,3",
+        "kick: missing 230,4",
+        "kick: missing 230,5",
+        "kick: missing 230,6",
+        "kick: missing 230,7",
+        "kick: missing 230,8",
+        "kick: missing 230,9",
+        "kick: missing 230,10"
+      ],
+      "usable": true
+    },
+    {
+      "folder": "Jotaro Kujo",
+      "key": "jotaro-kujo",
+      "version": "2.0",
+      "exported": 36,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jotaro",
+      "key": "jotaro",
+      "version": "2.0",
+      "exported": 31,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JotaroK",
+      "key": "jotarok",
+      "version": "2.0",
+      "exported": 41,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JotaroK 3",
+      "key": "jotarok-3",
+      "version": "2.0",
+      "exported": 43,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jotaro-SPR",
+      "key": "jotaro-spr",
+      "version": "2.0",
+      "exported": 38,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jotaro Over Heaven",
+      "key": "jotaro-over-heaven",
+      "version": "2.0",
+      "exported": 43,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Kakyoin",
+      "key": "kakyoin",
+      "version": "2.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Kakyoin 2",
+      "key": "kakyoin-2",
+      "version": "1.0",
+      "exported": 32,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Avdol",
+      "key": "avdol",
+      "version": "1.0",
+      "exported": 25,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Polnareff",
+      "key": "polnareff",
+      "version": "2.0",
+      "exported": 34,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Polnareff 1",
+      "key": "polnareff-1",
+      "version": "1.0",
+      "exported": 28,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Old_Joseph",
+      "key": "old-joseph",
+      "version": "2.0",
+      "exported": 38,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Iggy",
+      "key": "iggy",
+      "version": "2.0",
+      "exported": 36,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Shadow Dio",
+      "key": "shadow-dio",
+      "version": "2.0",
+      "exported": 29,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Dio",
+      "key": "dio",
+      "version": "2.0",
+      "exported": 30,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "DIO_K",
+      "key": "dio-k",
+      "version": "2.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "DIO_K 2.4",
+      "key": "dio-k-2-4",
+      "version": "1.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "High_DIO",
+      "key": "high-dio",
+      "version": "2.0",
+      "exported": 34,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Demon Lord Dio",
+      "key": "demon-lord-dio",
+      "version": "1.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Over Heaven DIO by QINYAN",
+      "key": "over-heaven-dio-by-qinyan",
+      "version": "2.0",
+      "exported": 41,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Hol Horse",
+      "key": "hol-horse",
+      "version": "2.0",
+      "exported": 39,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Vanilla Ice",
+      "key": "vanilla-ice",
+      "version": "2.0",
+      "exported": 27,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JotaroPart4",
+      "key": "jotaropart4",
+      "version": "2.0",
+      "exported": 37,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jotaro Kujo(DIUAnimeSuit 1)",
+      "key": "jotaro-kujo-diuanimesuit-1",
+      "version": "2.0",
+      "exported": 36,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Hamon Josuke",
+      "key": "hamon-josuke",
+      "version": "2.0",
+      "exported": 40,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Josuke 3",
+      "key": "josuke-3",
+      "version": "1.0",
+      "exported": 32,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Josuke 5",
+      "key": "josuke-5",
+      "version": "2.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Okuyasu",
+      "key": "okuyasu",
+      "version": "2.0",
+      "exported": 37,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Rohan",
+      "key": "rohan",
+      "version": "2.0",
+      "exported": 25,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Koichi",
+      "key": "koichi",
+      "version": "1.0",
+      "exported": 34,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Shigechi",
+      "key": "shigechi",
+      "version": "1.0",
+      "exported": 16,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Shizuka Joestar",
+      "key": "shizuka-joestar",
+      "version": "1.0",
+      "exported": 33,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Akira",
+      "key": "akira",
+      "version": "1.0",
+      "exported": 21,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Kira Yoshikage",
+      "key": "kira-yoshikage",
+      "version": "1.0",
+      "exported": 32,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Kira(Kosaku Kawajiri)",
+      "key": "kira-kosaku-kawajiri",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Giorno3",
+      "key": "giorno3",
+      "version": "2.0",
+      "exported": 43,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Giorno 4",
+      "key": "giorno-4",
+      "version": "2.0",
+      "exported": 28,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Giorno_GER",
+      "key": "giorno-ger",
+      "version": "2.0",
+      "exported": 28,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Bruno Bucciarati",
+      "key": "bruno-bucciarati",
+      "version": "1.0",
+      "exported": 37,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Mista",
+      "key": "mista",
+      "version": "2.0",
+      "exported": 22,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Leone Abbacchio",
+      "key": "leone-abbacchio",
+      "version": "1.0",
+      "exported": 28,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Pannacotta Fugo",
+      "key": "pannacotta-fugo",
+      "version": "1.0",
+      "exported": 38,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Narancia",
+      "key": "narancia",
+      "version": "2.0",
+      "exported": 19,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Trish Una",
+      "key": "trish-una",
+      "version": "2.0",
+      "exported": 30,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "PolnareffPart5",
+      "key": "polnareffpart5",
+      "version": "1.0",
+      "exported": 11,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Risotto",
+      "key": "risotto",
+      "version": "1.0",
+      "exported": 28,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Cioccolata",
+      "key": "cioccolata",
+      "version": "2.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Secco",
+      "key": "secco",
+      "version": "1.0",
+      "exported": 18,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Prosciutto",
+      "key": "prosciutto",
+      "version": "1.0",
+      "exported": 24,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Pesci",
+      "key": "pesci",
+      "version": "1.0",
+      "exported": 24,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Ghiaccio",
+      "key": "ghiaccio",
+      "version": "1.0",
+      "exported": 26,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Melone",
+      "key": "melone",
+      "version": "1.0",
+      "exported": 17,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diavolo",
+      "key": "diavolo",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diavolo Requiem",
+      "key": "diavolo-requiem",
+      "version": "1.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JotaroPart6",
+      "key": "jotaropart6",
+      "version": "2.0",
+      "exported": 31,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JotaroPart6v2",
+      "key": "jotaropart6v2",
+      "version": "2.0",
+      "exported": 31,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jolyne",
+      "key": "jolyne",
+      "version": "2.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Jolynev2",
+      "key": "jolynev2",
+      "version": "2.0",
+      "exported": 42,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Narciso Anasui",
+      "key": "narciso-anasui",
+      "version": "1.0",
+      "exported": 19,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Hermes",
+      "key": "hermes",
+      "version": "1.0",
+      "exported": 22,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Weather Report",
+      "key": "weather-report",
+      "version": "2.0",
+      "exported": 25,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Pucci",
+      "key": "pucci",
+      "version": "2.0",
+      "exported": 39,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Pucciv2",
+      "key": "pucciv2",
+      "version": "2.0",
+      "exported": 39,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Johnny_Joestar",
+      "key": "johnny-joestar",
+      "version": "1.0",
+      "exported": 38,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Gyro Zeppeli",
+      "key": "gyro-zeppeli",
+      "version": "2.0",
+      "exported": 43,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diego",
+      "key": "diego",
+      "version": "2.0",
+      "exported": 44,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diego Brando AU",
+      "key": "diego-brando-au",
+      "version": "2.0",
+      "exported": 37,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diego Brando AU 3",
+      "key": "diego-brando-au-3",
+      "version": "2.0",
+      "exported": 41,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Diego Brando AU 4",
+      "key": "diego-brando-au-4",
+      "version": "2.0",
+      "exported": 41,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Funny_Valentine",
+      "key": "funny-valentine",
+      "version": "1.0",
+      "exported": 40,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Funny_Valentine 3",
+      "key": "funny-valentine-3",
+      "version": "1.0",
+      "exported": 40,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "JosukeGappy",
+      "key": "josukegappy",
+      "version": "1.0",
+      "exported": 21,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Yoshikage",
+      "key": "yoshikage",
+      "version": "2.0",
+      "exported": 35,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "SakuyaIzayoi",
+      "key": "sakuyaizayoi",
+      "version": "2.0",
+      "exported": 21,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Sakuya",
+      "key": "sakuya",
+      "version": "2.0",
+      "exported": 25,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "SakuyaIzayoi 1",
+      "key": "sakuyaizayoi-1",
+      "version": "1.0",
+      "exported": 23,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "The World",
+      "key": "the-world",
+      "version": "1.0",
+      "exported": 27,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Star Platinum",
+      "key": "star-platinum",
+      "version": "1.0",
+      "exported": 27,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Baoh",
+      "key": "baoh",
+      "version": "1.0",
+      "exported": 26,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    },
+    {
+      "folder": "Tooru",
+      "key": "tooru",
+      "version": "2.0",
+      "exported": 23,
+      "states": [
+        "guard",
+        "hit",
+        "idle",
+        "jump",
+        "kick",
+        "punch",
+        "special",
+        "walk"
+      ],
+      "errors": [],
+      "usable": true
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+window.MUGEN_CONFIG = {
+  "screen": {
+    "localcoord": [
+      1280,
+      720
+    ],
+    "rows": 15,
+    "columns": 32,
+    "pos": [
+      19,
+      380
+    ],
+    "cellSize": [
+      30,
+      32
+    ],
+    "cellSpacing": 9,
+    "p1StartCell": [
+      0,
+      0
+    ],
+    "p2StartCell": [
+      0,
+      31
+    ]
+  },
+  "music": {
+    "title": "data/menu.mp3",
+    "select": "data/select.mp3",
+    "versus": "data/vs.mp3"
+  },
+  "characters": [
+    {
+      "name": "Jonathan",
+      "folder": "Jonathan",
+      "def": "Jonathan",
+      "order": 1,
+      "stage": "",
+      "raw": "Jonathan,order = 1"
+    },
+    {
+      "name": "Jonathan1",
+      "folder": "Jonathan1",
+      "def": "Jonathan",
+      "order": 1,
+      "stage": "",
+      "raw": "Jonathan1/Jonathan,order = 1"
+    },
+    {
+      "name": "Vampire Jonathan",
+      "folder": "Vampire Jonathan",
+      "def": "Vampire Jonathan",
+      "order": 1,
+      "stage": "",
+      "raw": "Vampire Jonathan,order = 1"
+    },
+    {
+      "name": "Dio Brando",
+      "folder": "Dio Brando",
+      "def": "Dio Brando",
+      "order": 1,
+      "stage": "",
+      "raw": "Dio Brando,order = 1"
+    },
+    {
+      "name": "boxingDio",
+      "folder": "boxingDio",
+      "def": "boxingDio",
+      "order": 1,
+      "stage": "",
+      "raw": "boxingDio,order = 1"
+    },
+    {
+      "name": "Anthonio Zeppeli",
+      "folder": "Anthonio Zeppeli",
+      "def": "Anthonio Zeppeli",
+      "order": 1,
+      "stage": "",
+      "raw": "Anthonio Zeppeli"
+    },
+    {
+      "name": "Joseph",
+      "folder": "Joseph",
+      "def": "Joseph",
+      "order": 1,
+      "stage": "",
+      "raw": "Joseph,order = 1"
+    },
+    {
+      "name": "Joseph Joestar",
+      "folder": "Joseph Joestar",
+      "def": "Joseph Joestar",
+      "order": 1,
+      "stage": "",
+      "raw": "Joseph Joestar,order = 1"
+    },
+    {
+      "name": "Joseph4",
+      "folder": "Joseph4",
+      "def": "Joseph",
+      "order": 1,
+      "stage": "",
+      "raw": "Joseph4/Joseph,order = 1"
+    },
+    {
+      "name": "Joseph 5",
+      "folder": "Joseph 5",
+      "def": "Joseph",
+      "order": 1,
+      "stage": "",
+      "raw": "Joseph 5/Joseph,order = 1"
+    },
+    {
+      "name": "Caesar Zeppeli",
+      "folder": "Caesar_Zeppeli",
+      "def": "Caesar_Zeppeli",
+      "order": 1,
+      "stage": "",
+      "raw": "Caesar_Zeppeli"
+    },
+    {
+      "name": "Stroheim",
+      "folder": "Stroheim",
+      "def": "Stroheim",
+      "order": 1,
+      "stage": "",
+      "raw": "Stroheim"
+    },
+    {
+      "name": "LisaLisa",
+      "folder": "LisaLisa",
+      "def": "LisaLisa",
+      "order": 1,
+      "stage": "",
+      "raw": "LisaLisa"
+    },
+    {
+      "name": "Ultimate Kars",
+      "folder": "Ultimate Kars",
+      "def": "UltimateKars",
+      "order": 1,
+      "stage": "",
+      "raw": "Ultimate Kars/UltimateKars,order = 1"
+    },
+    {
+      "name": "Jotaro Kujo",
+      "folder": "Jotaro Kujo",
+      "def": "Jotaro",
+      "order": 1,
+      "stage": "",
+      "raw": "Jotaro Kujo/Jotaro,order = 1"
+    },
+    {
+      "name": "Jotaro",
+      "folder": "Jotaro",
+      "def": "Jotaro",
+      "order": 2,
+      "stage": "",
+      "raw": "Jotaro,order = 2"
+    },
+    {
+      "name": "JotaroK",
+      "folder": "JotaroK",
+      "def": "JotaroK",
+      "order": 2,
+      "stage": "",
+      "raw": "JotaroK,order = 2"
+    },
+    {
+      "name": "JotaroK 3",
+      "folder": "JotaroK 3",
+      "def": "JotaroK",
+      "order": 1,
+      "stage": "",
+      "raw": "JotaroK 3/JotaroK"
+    },
+    {
+      "name": "Jotaro-SPR",
+      "folder": "Jotaro-SPR",
+      "def": "Jotaro-SPR",
+      "order": 3,
+      "stage": "",
+      "raw": "Jotaro-SPR,order = 3"
+    },
+    {
+      "name": "Jotaro Over Heaven",
+      "folder": "Jotaro Over Heaven",
+      "def": "Jotaro Over Heaven",
+      "order": 3,
+      "stage": "",
+      "raw": "Jotaro Over Heaven,order = 3"
+    },
+    {
+      "name": "Kakyoin",
+      "folder": "Kakyoin",
+      "def": "Kakyoin",
+      "order": 1,
+      "stage": "",
+      "raw": "Kakyoin,order = 1"
+    },
+    {
+      "name": "Kakyoin 2",
+      "folder": "Kakyoin 2",
+      "def": "Kakyoin",
+      "order": 1,
+      "stage": "",
+      "raw": "Kakyoin 2/Kakyoin,order = 1"
+    },
+    {
+      "name": "Avdol",
+      "folder": "Avdol",
+      "def": "Avdol",
+      "order": 1,
+      "stage": "",
+      "raw": "Avdol"
+    },
+    {
+      "name": "Polnareff",
+      "folder": "Polnareff",
+      "def": "Polnareff",
+      "order": 1,
+      "stage": "",
+      "raw": "Polnareff"
+    },
+    {
+      "name": "Polnareff 1",
+      "folder": "Polnareff 1",
+      "def": "Polnareff",
+      "order": 1,
+      "stage": "",
+      "raw": "Polnareff 1/Polnareff,order = 1"
+    },
+    {
+      "name": "Old Joseph",
+      "folder": "Old_Joseph",
+      "def": "Old_Joseph",
+      "order": 1,
+      "stage": "",
+      "raw": "Old_Joseph"
+    },
+    {
+      "name": "Iggy",
+      "folder": "Iggy",
+      "def": "Iggy",
+      "order": 1,
+      "stage": "",
+      "raw": "Iggy"
+    },
+    {
+      "name": "Shadow Dio",
+      "folder": "Shadow Dio",
+      "def": "Shadow Dio",
+      "order": 1,
+      "stage": "",
+      "raw": "Shadow Dio"
+    },
+    {
+      "name": "Dio",
+      "folder": "Dio",
+      "def": "Dio",
+      "order": 2,
+      "stage": "",
+      "raw": "Dio,order = 2"
+    },
+    {
+      "name": "DIO K",
+      "folder": "DIO_K",
+      "def": "DIO_K",
+      "order": 2,
+      "stage": "",
+      "raw": "DIO_K,order = 2"
+    },
+    {
+      "name": "DIO K 2.4",
+      "folder": "DIO_K 2.4",
+      "def": "DIO_K",
+      "order": 3,
+      "stage": "",
+      "raw": "DIO_K 2.4/DIO_K,order = 3"
+    },
+    {
+      "name": "High DIO",
+      "folder": "High_DIO",
+      "def": "High_DIO",
+      "order": 3,
+      "stage": "",
+      "raw": "High_DIO,order = 3"
+    },
+    {
+      "name": "Demon Lord Dio",
+      "folder": "Demon Lord Dio",
+      "def": "Demon Lord Dio",
+      "order": 3,
+      "stage": "",
+      "raw": "Demon Lord Dio,order = 3"
+    },
+    {
+      "name": "Over Heaven DIO by QINYAN",
+      "folder": "Over Heaven DIO by QINYAN",
+      "def": "Over Heaven DIO by QINYAN",
+      "order": 3,
+      "stage": "",
+      "raw": "Over Heaven DIO by QINYAN,order = 3"
+    },
+    {
+      "name": "Hol Horse",
+      "folder": "Hol Horse",
+      "def": "Hol Horse",
+      "order": 1,
+      "stage": "",
+      "raw": "Hol Horse"
+    },
+    {
+      "name": "Vanilla Ice",
+      "folder": "Vanilla Ice",
+      "def": "Vanilla Ice",
+      "order": 2,
+      "stage": "",
+      "raw": "Vanilla Ice,order = 2"
+    },
+    {
+      "name": "JotaroPart4",
+      "folder": "JotaroPart4",
+      "def": "JotaroPart4",
+      "order": 1,
+      "stage": "",
+      "raw": "JotaroPart4"
+    },
+    {
+      "name": "Jotaro Kujo(DIUAnimeSuit 1)",
+      "folder": "Jotaro Kujo(DIUAnimeSuit 1)",
+      "def": "Jotaro Kujo(DIUAnimeSuit 1)",
+      "order": 1,
+      "stage": "",
+      "raw": "Jotaro Kujo(DIUAnimeSuit 1)"
+    },
+    {
+      "name": "Hamon Josuke",
+      "folder": "Hamon Josuke",
+      "def": "Hamon Josuke",
+      "order": 1,
+      "stage": "",
+      "raw": "Hamon Josuke"
+    },
+    {
+      "name": "Josuke 3",
+      "folder": "Josuke 3",
+      "def": "Josuke",
+      "order": 1,
+      "stage": "",
+      "raw": "Josuke 3/Josuke,order = 1"
+    },
+    {
+      "name": "Josuke 5",
+      "folder": "Josuke 5",
+      "def": "Josuke",
+      "order": 1,
+      "stage": "",
+      "raw": "Josuke 5/Josuke,order = 1"
+    },
+    {
+      "name": "Okuyasu",
+      "folder": "Okuyasu",
+      "def": "Okuyasu",
+      "order": 1,
+      "stage": "",
+      "raw": "Okuyasu"
+    },
+    {
+      "name": "Rohan",
+      "folder": "Rohan",
+      "def": "Rohan",
+      "order": 1,
+      "stage": "",
+      "raw": "Rohan"
+    },
+    {
+      "name": "Koichi",
+      "folder": "Koichi",
+      "def": "Koichi",
+      "order": 1,
+      "stage": "",
+      "raw": "Koichi"
+    },
+    {
+      "name": "Shigechi",
+      "folder": "Shigechi",
+      "def": "Shigechi",
+      "order": 1,
+      "stage": "",
+      "raw": "Shigechi"
+    },
+    {
+      "name": "Shizuka Joestar",
+      "folder": "Shizuka Joestar",
+      "def": "Shizuka",
+      "order": 1,
+      "stage": "",
+      "raw": "Shizuka Joestar/Shizuka"
+    },
+    {
+      "name": "Akira",
+      "folder": "Akira",
+      "def": "Akira",
+      "order": 1,
+      "stage": "",
+      "raw": "Akira"
+    },
+    {
+      "name": "Kira Yoshikage",
+      "folder": "Kira Yoshikage",
+      "def": "Kira Yoshikage",
+      "order": 2,
+      "stage": "",
+      "raw": "Kira Yoshikage,order = 2"
+    },
+    {
+      "name": "Kira(Kosaku Kawajiri)",
+      "folder": "Kira(Kosaku Kawajiri)",
+      "def": "Kira(Kosaku Kawajiri)",
+      "order": 2,
+      "stage": "",
+      "raw": "Kira(Kosaku Kawajiri)/Kira(Kosaku Kawajiri),order = 2"
+    },
+    {
+      "name": "Giorno3",
+      "folder": "Giorno3",
+      "def": "Giorno",
+      "order": 1,
+      "stage": "",
+      "raw": "Giorno3/Giorno"
+    },
+    {
+      "name": "Giorno 4",
+      "folder": "Giorno 4",
+      "def": "Giorno",
+      "order": 2,
+      "stage": "",
+      "raw": "Giorno 4/Giorno,order = 2"
+    },
+    {
+      "name": "Giorno GER",
+      "folder": "Giorno_GER",
+      "def": "Giorno_GER",
+      "order": 3,
+      "stage": "",
+      "raw": "Giorno_GER,order = 3"
+    },
+    {
+      "name": "Bruno Bucciarati",
+      "folder": "Bruno Bucciarati",
+      "def": "Bruno Bucciarati",
+      "order": 1,
+      "stage": "",
+      "raw": "Bruno Bucciarati"
+    },
+    {
+      "name": "Mista",
+      "folder": "Mista",
+      "def": "Mista",
+      "order": 1,
+      "stage": "",
+      "raw": "Mista"
+    },
+    {
+      "name": "Leone Abbacchio",
+      "folder": "Leone Abbacchio",
+      "def": "Leone Abbacchio",
+      "order": 1,
+      "stage": "",
+      "raw": "Leone Abbacchio"
+    },
+    {
+      "name": "Pannacotta Fugo",
+      "folder": "Pannacotta Fugo",
+      "def": "Fugo",
+      "order": 1,
+      "stage": "",
+      "raw": "Pannacotta Fugo/Fugo"
+    },
+    {
+      "name": "Narancia",
+      "folder": "Narancia",
+      "def": "Narancia",
+      "order": 1,
+      "stage": "",
+      "raw": "Narancia"
+    },
+    {
+      "name": "Trish Una",
+      "folder": "Trish Una",
+      "def": "Trish Una",
+      "order": 1,
+      "stage": "",
+      "raw": "Trish Una"
+    },
+    {
+      "name": "PolnareffPart5",
+      "folder": "PolnareffPart5",
+      "def": "PolnareffPart5",
+      "order": 1,
+      "stage": "",
+      "raw": "PolnareffPart5"
+    },
+    {
+      "name": "Risotto",
+      "folder": "Risotto",
+      "def": "Risotto",
+      "order": 1,
+      "stage": "",
+      "raw": "Risotto,order = 1"
+    },
+    {
+      "name": "Cioccolata",
+      "folder": "Cioccolata",
+      "def": "Cioccolata",
+      "order": 1,
+      "stage": "",
+      "raw": "Cioccolata"
+    },
+    {
+      "name": "Secco",
+      "folder": "Secco",
+      "def": "Secco",
+      "order": 1,
+      "stage": "",
+      "raw": "Secco"
+    },
+    {
+      "name": "Prosciutto",
+      "folder": "Prosciutto",
+      "def": "Prosciutto",
+      "order": 1,
+      "stage": "",
+      "raw": "Prosciutto"
+    },
+    {
+      "name": "Pesci",
+      "folder": "Pesci",
+      "def": "Pesci",
+      "order": 1,
+      "stage": "",
+      "raw": "Pesci"
+    },
+    {
+      "name": "Ghiaccio",
+      "folder": "Ghiaccio",
+      "def": "Ghiaccio",
+      "order": 1,
+      "stage": "",
+      "raw": "Ghiaccio"
+    },
+    {
+      "name": "Melone",
+      "folder": "Melone",
+      "def": "Melone",
+      "order": 1,
+      "stage": "",
+      "raw": "Melone"
+    },
+    {
+      "name": "Diavolo",
+      "folder": "Diavolo",
+      "def": "Diavolo",
+      "order": 2,
+      "stage": "",
+      "raw": "Diavolo,order = 2"
+    },
+    {
+      "name": "Diavolo Requiem",
+      "folder": "Diavolo Requiem",
+      "def": "Diavolo Requiem",
+      "order": 3,
+      "stage": "",
+      "raw": "Diavolo Requiem,order = 3"
+    },
+    {
+      "name": "JotaroPart6",
+      "folder": "JotaroPart6",
+      "def": "JotaroPart6",
+      "order": 1,
+      "stage": "",
+      "raw": "JotaroPart6,order = 1"
+    },
+    {
+      "name": "JotaroPart6v2",
+      "folder": "JotaroPart6v2",
+      "def": "JotaroPart6v2",
+      "order": 1,
+      "stage": "",
+      "raw": "JotaroPart6v2,order = 1"
+    },
+    {
+      "name": "Jolyne",
+      "folder": "Jolyne",
+      "def": "Jolyne",
+      "order": 1,
+      "stage": "",
+      "raw": "Jolyne,order = 1"
+    },
+    {
+      "name": "Jolynev2",
+      "folder": "Jolynev2",
+      "def": "Jolynev2",
+      "order": 1,
+      "stage": "",
+      "raw": "Jolynev2,order = 1"
+    },
+    {
+      "name": "Narciso Anasui",
+      "folder": "Narciso Anasui",
+      "def": "Narciso Anasui",
+      "order": 1,
+      "stage": "",
+      "raw": "Narciso Anasui"
+    },
+    {
+      "name": "Hermes",
+      "folder": "Hermes",
+      "def": "Hermes",
+      "order": 1,
+      "stage": "",
+      "raw": "Hermes"
+    },
+    {
+      "name": "Weather Report",
+      "folder": "Weather Report",
+      "def": "Weather Report",
+      "order": 1,
+      "stage": "",
+      "raw": "Weather Report"
+    },
+    {
+      "name": "Pucci",
+      "folder": "Pucci",
+      "def": "Pucci",
+      "order": 2,
+      "stage": "",
+      "raw": "Pucci,order = 2"
+    },
+    {
+      "name": "Pucciv2",
+      "folder": "Pucciv2",
+      "def": "Pucciv2",
+      "order": 3,
+      "stage": "",
+      "raw": "Pucciv2,order = 3"
+    },
+    {
+      "name": "Johnny Joestar",
+      "folder": "Johnny_Joestar",
+      "def": "Johnny_Joestar",
+      "order": 1,
+      "stage": "",
+      "raw": "Johnny_Joestar"
+    },
+    {
+      "name": "Gyro Zeppeli",
+      "folder": "Gyro Zeppeli",
+      "def": "Gyro Zeppeli",
+      "order": 1,
+      "stage": "",
+      "raw": "Gyro Zeppeli"
+    },
+    {
+      "name": "Diego",
+      "folder": "Diego",
+      "def": "Diego",
+      "order": 1,
+      "stage": "",
+      "raw": "Diego"
+    },
+    {
+      "name": "Diego Brando AU",
+      "folder": "Diego Brando AU",
+      "def": "Diego Brando AU",
+      "order": 1,
+      "stage": "",
+      "raw": "Diego Brando AU"
+    },
+    {
+      "name": "Diego Brando AU 3",
+      "folder": "Diego Brando AU 3",
+      "def": "Diego Brando AU",
+      "order": 1,
+      "stage": "",
+      "raw": "Diego Brando AU 3/Diego Brando AU"
+    },
+    {
+      "name": "Diego Brando AU 4",
+      "folder": "Diego Brando AU 4",
+      "def": "Diego Brando AU",
+      "order": 2,
+      "stage": "",
+      "raw": "Diego Brando AU 4/Diego Brando AU,order = 2"
+    },
+    {
+      "name": "Funny Valentine",
+      "folder": "Funny_Valentine",
+      "def": "Funny_Valentine",
+      "order": 1,
+      "stage": "",
+      "raw": "Funny_Valentine"
+    },
+    {
+      "name": "Funny Valentine 3",
+      "folder": "Funny_Valentine 3",
+      "def": "Funny_Valentine",
+      "order": 2,
+      "stage": "",
+      "raw": "Funny_Valentine 3/Funny_Valentine,order = 2"
+    },
+    {
+      "name": "JosukeGappy",
+      "folder": "JosukeGappy",
+      "def": "JosukeGappy",
+      "order": 1,
+      "stage": "",
+      "raw": "JosukeGappy"
+    },
+    {
+      "name": "Yoshikage",
+      "folder": "Yoshikage",
+      "def": "Yoshikage",
+      "order": 1,
+      "stage": "",
+      "raw": "Yoshikage"
+    },
+    {
+      "name": "SakuyaIzayoi",
+      "folder": "SakuyaIzayoi",
+      "def": "SakuyaIzayoi",
+      "order": 1,
+      "stage": "",
+      "raw": "SakuyaIzayoi"
+    },
+    {
+      "name": "Sakuya",
+      "folder": "Sakuya",
+      "def": "Sakuya",
+      "order": 1,
+      "stage": "",
+      "raw": "Sakuya"
+    },
+    {
+      "name": "SakuyaIzayoi 1",
+      "folder": "SakuyaIzayoi 1",
+      "def": "SakuyaIzayoi",
+      "order": 1,
+      "stage": "",
+      "raw": "SakuyaIzayoi 1/SakuyaIzayoi"
+    },
+    {
+      "name": "The World",
+      "folder": "The World",
+      "def": "The World",
+      "order": 1,
+      "stage": "",
+      "raw": "The World"
+    },
+    {
+      "name": "Star Platinum",
+      "folder": "Star Platinum",
+      "def": "Star Platinum",
+      "order": 1,
+      "stage": "",
+      "raw": "Star Platinum"
+    },
+    {
+      "name": "Baoh",
+      "folder": "Baoh",
+      "def": "Baoh",
+      "order": 1,
+      "stage": "",
+      "raw": "Baoh"
+    },
+    {
+      "name": "Tooru",
+      "folder": "Tooru",
+      "def": "Tooru",
+      "order": 1,
+      "stage": "",
+      "raw": "Tooru"
+    }
+  ],
+  "stages": [
+    {
+      "name": "Great Snowfield of Iron",
+      "ref": "stages/GreatSnowfieldofIron.def",
+      "preview": "",
+      "music": "sound/Snowfield.mp3"
+    },
+    {
+      "name": "Final Valley",
+      "ref": "stages/F.def",
+      "preview": "",
+      "music": "sound/Final_Valley.mp3"
+    },
+    {
+      "name": "Moonlit Battlefield",
+      "ref": "stages/Moonlit_Battlefield_NSUNS4.def",
+      "preview": "",
+      "music": "sound/Moonlit_Battlefield_NSUNS4.mp3"
+    },
+    {
+      "name": "El Tesoro del Cielo",
+      "ref": "stages/El Tesoro del Cielo.def",
+      "preview": "",
+      "music": "sound/El tesoro del cielo.mp3"
+    },
+    {
+      "name": "Fortress",
+      "ref": "stages/Koroukan.def",
+      "preview": "",
+      "music": "sound/MarineFordEdit.mp3"
+    },
+    {
+      "name": "Market",
+      "ref": "stages/Market.def",
+      "preview": "",
+      "music": "sound/Battle Counterattack!.MP3"
+    },
+    {
+      "name": "Wasteland",
+      "ref": "stages/Wasteland.def",
+      "preview": "",
+      "music": "sound/Challengers.mp3"
+    },
+    {
+      "name": "Starry Night",
+      "ref": "stages/Starry Night.def",
+      "preview": "",
+      "music": "sound/Luffy VS Blueno.mp3"
+    },
+    {
+      "name": "Tenkaichi Budokai",
+      "ref": "stages/Tenkaichi_Budokai.def",
+      "preview": "",
+      "music": "sound/Batlle Supreme.Mp3"
+    },
+    {
+      "name": "Konoha_Destroyed",
+      "ref": "stages/Konoha_Destroyed.def",
+      "preview": "",
+      "music": "sound/Flying_Light.mp3"
+    },
+    {
+      "name": "New_Saiyan_Planet",
+      "ref": "stages/New_Saiyan_Planet_1.1.def",
+      "preview": "",
+      "music": "sound/ChallengerEdit.mp3"
+    },
+    {
+      "name": "[DM] Supreme Kai's Planet",
+      "ref": "stages/Supreme_kais_planet.def",
+      "preview": "",
+      "music": "sound/Butchi GIRI no Sugoi Yatsu Edit.mp3"
+    },
+    {
+      "name": "Epic-world,Warlord`s Tomb",
+      "ref": "stages/Epic-world,Warlord`s Tomb.def",
+      "preview": "",
+      "music": "sound/Overlord 2 Netherworld Epic Edit.mp3"
+    },
+    {
+      "name": "SF IV - Training",
+      "ref": "stages/SFIVTraining_16_9.def",
+      "preview": "",
+      "music": "sound/SFIVTraining.mp3"
+    },
+    {
+      "name": "Minato vs Masked man",
+      "ref": "stages/minato vs masked man.def",
+      "preview": "",
+      "music": "sound/Minato vs Masked man.mp3"
+    },
+    {
+      "name": "Temple Taurus",
+      "ref": "stages/TempleTaurus(openGl).def",
+      "preview": "",
+      "music": "sound/Saint Seiya Soldiers Soul Soundtrack_ Event 2.mp3"
+    },
+    {
+      "name": "Rooftop",
+      "ref": "stages/Rooftop.def",
+      "preview": "",
+      "music": "Sound/Rooftop.mp3"
+    },
+    {
+      "name": "Awakening",
+      "ref": "stages/Awakening.def",
+      "preview": "mugen/stages/17-awakening.png",
+      "music": "sound/Awaken.mp3"
+    },
+    {
+      "name": "In The City",
+      "ref": "stages/InTheCity.def",
+      "preview": "",
+      "music": "Sound/InTheCity.mp3"
+    },
+    {
+      "name": "Palais de Mizard",
+      "ref": "stages/PalaisdeMizard.def",
+      "preview": "mugen/stages/19-palais-de-mizard.png",
+      "music": "sound/Saint Seiya _ Chapter Sanctuary OST _ BGM 04.mp3"
+    },
+    {
+      "name": "Forest of Giant Trees",
+      "ref": "stages/Forest of Giant Trees.def",
+      "preview": "",
+      "music": "sound/Levi  Devils of Paradis vs Marley Battle Theme.mp3"
+    },
+    {
+      "name": "Aaroniero Stage",
+      "ref": "stages/Aaroniero Stage.def",
+      "preview": "",
+      "music": "sound/Morning Remembrace.mp3"
+    },
+    {
+      "name": "Dio's Mansion",
+      "ref": "stages/Dio's Mansion.def",
+      "preview": "mugen/stages/22-dio-s-mansion.png",
+      "music": "sound/Decisive_Battle.mp3"
+    },
+    {
+      "name": "Castle",
+      "ref": "stages/Mittelbirge.def",
+      "preview": "mugen/stages/23-castle.png",
+      "music": "sound/Jonathan.mp3"
+    },
+    {
+      "name": "Avalon",
+      "ref": "stages/Avalon.def",
+      "preview": "mugen/stages/24-avalon.png",
+      "music": "sound/Avalon.mp3"
+    },
+    {
+      "name": "Self-imposed imprisonment",
+      "ref": "stages/jotaro_b.def",
+      "preview": "mugen/stages/25-self-imposed-imprisonment.png",
+      "music": "sound/Jotaro_Theme.mp3"
+    },
+    {
+      "name": "A Health Room",
+      "ref": "stages/jjba-kakyoin.def",
+      "preview": "mugen/stages/26-a-health-room.png",
+      "music": "sound/Kakyoin_Theme.mp3"
+    },
+    {
+      "name": "A battle within folklore",
+      "ref": "stages/jba_tiger.def",
+      "preview": "mugen/stages/27-a-battle-within-folklore.png",
+      "music": "sound/Polnareff_Theme.mp3"
+    },
+    {
+      "name": "A deserted town in Saudi Arabia",
+      "ref": "stages/desert-town.def",
+      "preview": "mugen/stages/28-a-deserted-town-in-saudi-arabia.png",
+      "music": "sound/HolHorse_Theme.mp3"
+    },
+    {
+      "name": "Libya Desert",
+      "ref": "stages/desert.def",
+      "preview": "mugen/stages/29-libya-desert.png",
+      "music": "sound/10 - Iggy's Theme.mp3"
+    },
+    {
+      "name": "Ruins",
+      "ref": "stages/Ruins.def",
+      "preview": "",
+      "music": "Sound/06 - Muhammed Avdol's Theme.mp3"
+    },
+    {
+      "name": "Ya big bully!",
+      "ref": "stages/k-alessy-a.def",
+      "preview": "mugen/stages/31-ya-big-bully.png",
+      "music": "sound\\09 - Joseph Joestar's Theme.mp3"
+    },
+    {
+      "name": "JBA-Mansion Lobby",
+      "ref": "stages/jba_lobby.def",
+      "preview": "mugen/stages/32-jba-mansion-lobby.png",
+      "music": "sound/21 - Vanilla Ice's Theme.mp3"
+    },
+    {
+      "name": "Streets Of Cairo HD 1.1",
+      "ref": "stages/MANU_Jo-02 [1.1 zoom].def",
+      "preview": "",
+      "music": "sound/Dio's_World.mp3"
+    },
+    {
+      "name": "Clocktower",
+      "ref": "stages/jjba-ctower.def",
+      "preview": "mugen/stages/34-clocktower.png",
+      "music": "sound/Noble Pope.mp3"
+    },
+    {
+      "name": "Final Battle Under The Blue Moonlight",
+      "ref": "stages/bridgemoon1.def",
+      "preview": "mugen/stages/35-final-battle-under-the-blue-moonlight.png",
+      "music": "sound/Dio_Theme.mp3"
+    },
+    {
+      "name": "Final Battle Under The Red Moonlight",
+      "ref": "stages/bridgemoon.def",
+      "preview": "mugen/stages/36-final-battle-under-the-red-moonlight.png",
+      "music": "sound/Dio_Theme.mp3"
+    },
+    {
+      "name": "jojo4-mukadeya",
+      "ref": "stages/jojo4-mukadeya 1.1.def",
+      "preview": "mugen/stages/37-jojo4-mukadeya.png",
+      "music": "sound/Stand.mp3"
+    },
+    {
+      "name": "jojo4-niji",
+      "ref": "stages/jojo4-niji 1.1.def",
+      "preview": "mugen/stages/38-jojo4-niji.png",
+      "music": "sound/The_Hand.mp3"
+    },
+    {
+      "name": "Kira's House",
+      "ref": "stages/Kira's House.def",
+      "preview": "mugen/stages/39-kira-s-house.png",
+      "music": "sound/Killer.mp3"
+    },
+    {
+      "name": "MANU_Jo-06",
+      "ref": "stages/MANU_Jo-06 [zoom].def",
+      "preview": "mugen/stages/40-manu-jo-06.png",
+      "music": "sound/Jojo_DiU.mp3"
+    },
+    {
+      "name": "MANU_Jo-05_1.1",
+      "ref": "stages/MANU_Jo-05 1.1 [zoom].def",
+      "preview": "",
+      "music": "sound/Golden Wind.mp3"
+    },
+    {
+      "name": "Venice",
+      "ref": "stages/Love In Venice 1.1.def",
+      "preview": "",
+      "music": "sound/Love_In_Venice.mp3"
+    },
+    {
+      "name": "Rome",
+      "ref": "stages/Rome.def",
+      "preview": "",
+      "music": "sound/22 - King Crimson.mp3"
+    },
+    {
+      "name": "Small Island (Judgement)",
+      "ref": "stages/jjba-kameo.def",
+      "preview": "mugen/stages/44-small-island-judgement.png",
+      "music": "sound/06 - Muhammed Avdol's Theme.mp3"
+    },
+    {
+      "name": "PASSIONE YACHT",
+      "ref": "stages/PASS.def",
+      "preview": "mugen/stages/45-passione-yacht.png",
+      "music": "sound/Torture Dance.mp3"
+    },
+    {
+      "name": "MANU_Jo-04",
+      "ref": "stages/MANU_Jo-04.def",
+      "preview": "mugen/stages/46-manu-jo-04.png",
+      "music": "sound/CNBT.mp3"
+    },
+    {
+      "name": "Italy Stage",
+      "ref": "stages/KOF2001_Italy_Stage.def",
+      "preview": "mugen/stages/47-italy-stage.png",
+      "music": "sound/Free Your Body.mp3"
+    },
+    {
+      "name": "Burning Down The House",
+      "ref": "stages/Burning Down The House.def",
+      "preview": "",
+      "music": "sound/Weather Report BGM.mp3"
+    },
+    {
+      "name": "Jo Jo part 6 Cytec Denka",
+      "ref": "stages/Jo_Jo_part_6_Cytec_Denka.def",
+      "preview": "",
+      "music": "sound/Part 6_ Green Dolphin Street Prison.mp3"
+    },
+    {
+      "name": "Kennedy Space Center",
+      "ref": "stages/KennedySpaceCenter.def",
+      "preview": "mugen/stages/50-kennedy-space-center.png",
+      "music": "sound/Pucci's Theme.mp3"
+    },
+    {
+      "name": "Steel Ball Run",
+      "ref": "stages/SteelBallRun.def",
+      "preview": "",
+      "music": "sound/diego_brando_scary_monsters_battle.mp3"
+    }
+  ]
+};

@@ -1,0 +1,1087 @@
+{
+  "characters": 94,
+  "failures": [],
+  "versions": {
+    "1.0": 41,
+    "2.0": 53
+  },
+  "spriteFormats": {
+    "pcx": 37774,
+    "2": 15177,
+    "1": 4803,
+    "4": 2067,
+    "10": 44527,
+    "11": 91,
+    "12": 400
+  },
+  "airAvailable": 94,
+  "details": [
+    {
+      "folder": "Jonathan",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jonathan\\Jonathan.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 962,
+      "formats": {
+        "pcx": 962
+      }
+    },
+    {
+      "folder": "Jonathan1",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jonathan1\\Jonathan.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1722,
+      "formats": {
+        "2": 1439,
+        "1": 272,
+        "4": 11
+      }
+    },
+    {
+      "folder": "Vampire Jonathan",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Vampire Jonathan\\Vampire Jonathan.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1241,
+      "formats": {
+        "10": 1082,
+        "11": 2,
+        "1": 138,
+        "4": 19
+      }
+    },
+    {
+      "folder": "Dio Brando",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Dio Brando\\Dio Brando.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1353,
+      "formats": {
+        "pcx": 1353
+      }
+    },
+    {
+      "folder": "boxingDio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\boxingDio\\boxingDio.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 472,
+      "formats": {
+        "2": 463,
+        "1": 9
+      }
+    },
+    {
+      "folder": "Anthonio Zeppeli",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Anthonio Zeppeli\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 283,
+      "formats": {
+        "pcx": 283
+      }
+    },
+    {
+      "folder": "Joseph",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Joseph\\Joseph.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 907,
+      "formats": {
+        "pcx": 907
+      }
+    },
+    {
+      "folder": "Joseph Joestar",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Joseph Joestar\\SM_Jonathan.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1005,
+      "formats": {
+        "pcx": 1005
+      }
+    },
+    {
+      "folder": "Joseph4",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Joseph4\\Joseph.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 930,
+      "formats": {
+        "10": 899,
+        "1": 17,
+        "4": 14
+      }
+    },
+    {
+      "folder": "Joseph 5",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Joseph 5\\_files\\spr.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 887,
+      "formats": {
+        "10": 788,
+        "1": 91,
+        "4": 8
+      }
+    },
+    {
+      "folder": "Caesar_Zeppeli",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Caesar_Zeppeli\\Caesar_Zeppeli.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1048,
+      "formats": {
+        "pcx": 1048
+      }
+    },
+    {
+      "folder": "Stroheim",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Stroheim\\Stroheim.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 742,
+      "formats": {
+        "2": 670,
+        "1": 66,
+        "4": 6
+      }
+    },
+    {
+      "folder": "LisaLisa",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\LisaLisa\\.src\\spr.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1038,
+      "formats": {
+        "10": 921,
+        "1": 92,
+        "4": 25
+      }
+    },
+    {
+      "folder": "Ultimate Kars",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Ultimate Kars\\UltimateKars.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 996,
+      "formats": {
+        "pcx": 996
+      }
+    },
+    {
+      "folder": "Jotaro Kujo",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro Kujo\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 935,
+      "formats": {
+        "2": 909,
+        "1": 7,
+        "4": 19
+      }
+    },
+    {
+      "folder": "Jotaro",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1742,
+      "formats": {
+        "10": 1633,
+        "12": 1,
+        "1": 82,
+        "4": 26
+      }
+    },
+    {
+      "folder": "JotaroK",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JotaroK\\JotaroK.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1568,
+      "formats": {
+        "10": 1388,
+        "12": 12,
+        "1": 121,
+        "4": 47
+      }
+    },
+    {
+      "folder": "JotaroK 3",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JotaroK 3\\JotaroK.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1647,
+      "formats": {
+        "10": 1457,
+        "12": 13,
+        "1": 130,
+        "4": 47
+      }
+    },
+    {
+      "folder": "Jotaro-SPR",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro-SPR\\Jotaro-SPR.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 2667,
+      "formats": {
+        "10": 2421,
+        "1": 191,
+        "4": 54,
+        "12": 1
+      }
+    },
+    {
+      "folder": "Jotaro Over Heaven",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro Over Heaven\\Jotaro Over Heaven.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 2790,
+      "formats": {
+        "11": 26,
+        "10": 2465,
+        "4": 50,
+        "1": 237,
+        "12": 12
+      }
+    },
+    {
+      "folder": "Kakyoin",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Kakyoin\\Kakyoin.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 950,
+      "formats": {
+        "2": 725,
+        "4": 201,
+        "1": 24
+      }
+    },
+    {
+      "folder": "Kakyoin 2",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Kakyoin 2\\-\\-.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1027,
+      "formats": {
+        "pcx": 1027
+      }
+    },
+    {
+      "folder": "Avdol",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Avdol\\Avdol.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1487,
+      "formats": {
+        "pcx": 1487
+      }
+    },
+    {
+      "folder": "Polnareff",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Polnareff\\Polnareff.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1389,
+      "formats": {
+        "10": 1242,
+        "12": 1,
+        "1": 129,
+        "4": 17
+      }
+    },
+    {
+      "folder": "Polnareff 1",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Polnareff 1\\Polnareff.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1993,
+      "formats": {
+        "pcx": 1993
+      }
+    },
+    {
+      "folder": "Old_Joseph",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Old_Joseph\\Old_Joseph.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1264,
+      "formats": {
+        "10": 1120,
+        "1": 127,
+        "4": 17
+      }
+    },
+    {
+      "folder": "Iggy",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Iggy\\Iggy.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1482,
+      "formats": {
+        "2": 1317,
+        "1": 157,
+        "4": 8
+      }
+    },
+    {
+      "folder": "Shadow Dio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Shadow Dio\\Sprite.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 807,
+      "formats": {
+        "2": 765,
+        "4": 16,
+        "1": 26
+      }
+    },
+    {
+      "folder": "Dio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Dio\\.src\\spr.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 823,
+      "formats": {
+        "10": 744,
+        "1": 76,
+        "4": 2,
+        "12": 1
+      }
+    },
+    {
+      "folder": "DIO_K",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\DIO_K\\DIO_K.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1446,
+      "formats": {
+        "10": 1338,
+        "1": 70,
+        "4": 37,
+        "12": 1
+      }
+    },
+    {
+      "folder": "DIO_K 2.4",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\DIO_K 2.4\\DIO_K.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1930,
+      "formats": {
+        "pcx": 1930
+      }
+    },
+    {
+      "folder": "High_DIO",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\High_DIO\\DIO.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1673,
+      "formats": {
+        "4": 109,
+        "10": 1506,
+        "1": 58
+      }
+    },
+    {
+      "folder": "Demon Lord Dio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Demon Lord Dio\\Demon Lord Dio.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1538,
+      "formats": {
+        "pcx": 1538
+      }
+    },
+    {
+      "folder": "Over Heaven DIO by QINYAN",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Over Heaven DIO by QINYAN\\DIO_K.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 3756,
+      "formats": {
+        "4": 195,
+        "12": 182,
+        "1": 407,
+        "10": 2969,
+        "11": 3
+      }
+    },
+    {
+      "folder": "Hol Horse",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Hol Horse\\HH.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 777,
+      "formats": {
+        "10": 769,
+        "12": 2,
+        "4": 6
+      }
+    },
+    {
+      "folder": "Vanilla Ice",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Vanilla Ice\\Vanilla Ice.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 760,
+      "formats": {
+        "10": 631,
+        "11": 31,
+        "1": 81,
+        "4": 9,
+        "12": 8
+      }
+    },
+    {
+      "folder": "JotaroPart4",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JotaroPart4\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 747,
+      "formats": {
+        "2": 710,
+        "1": 8,
+        "4": 29
+      }
+    },
+    {
+      "folder": "Jotaro Kujo(DIUAnimeSuit 1)",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jotaro Kujo(DIUAnimeSuit 1)\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 970,
+      "formats": {
+        "2": 945,
+        "1": 6,
+        "4": 19
+      }
+    },
+    {
+      "folder": "Hamon Josuke",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Hamon Josuke\\Hamon Josuke.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1722,
+      "formats": {
+        "10": 1415,
+        "12": 2,
+        "1": 294,
+        "4": 11
+      }
+    },
+    {
+      "folder": "Josuke 3",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Josuke 3\\Josuke.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 872,
+      "formats": {
+        "pcx": 872
+      }
+    },
+    {
+      "folder": "Josuke 5",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Josuke 5\\Josuke.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1446,
+      "formats": {
+        "10": 1267,
+        "1": 153,
+        "4": 19,
+        "12": 7
+      }
+    },
+    {
+      "folder": "Okuyasu",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Okuyasu\\Okuyasu.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 936,
+      "formats": {
+        "2": 923,
+        "4": 13
+      }
+    },
+    {
+      "folder": "Rohan",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Rohan\\Rohan.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1652,
+      "formats": {
+        "10": 1525,
+        "1": 83,
+        "4": 44
+      }
+    },
+    {
+      "folder": "Koichi",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Koichi\\Koichi.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1930,
+      "formats": {
+        "pcx": 1930
+      }
+    },
+    {
+      "folder": "Shigechi",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Shigechi\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 277,
+      "formats": {
+        "pcx": 277
+      }
+    },
+    {
+      "folder": "Shizuka Joestar",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Shizuka Joestar\\Shizuka.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1058,
+      "formats": {
+        "pcx": 1058
+      }
+    },
+    {
+      "folder": "Akira",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Akira\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 791,
+      "formats": {
+        "pcx": 791
+      }
+    },
+    {
+      "folder": "Kira Yoshikage",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Kira Yoshikage\\Kira Yoshikage.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 935,
+      "formats": {
+        "pcx": 935
+      }
+    },
+    {
+      "folder": "Kira(Kosaku Kawajiri)",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Kira(Kosaku Kawajiri)\\Kira(Kosaku Kawajiri).sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1070,
+      "formats": {
+        "pcx": 1070
+      }
+    },
+    {
+      "folder": "Giorno3",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Giorno3\\Giorno.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1227,
+      "formats": {
+        "10": 1083,
+        "1": 123,
+        "4": 21
+      }
+    },
+    {
+      "folder": "Giorno 4",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Giorno 4\\Giorno.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1262,
+      "formats": {
+        "2": 1112,
+        "1": 131,
+        "4": 19
+      }
+    },
+    {
+      "folder": "Giorno_GER",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Giorno_GER\\Giorno_GER.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1152,
+      "formats": {
+        "12": 2,
+        "10": 1094,
+        "4": 56
+      }
+    },
+    {
+      "folder": "Bruno Bucciarati",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Bruno Bucciarati\\Bruno Bucciarati.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1169,
+      "formats": {
+        "pcx": 1169
+      }
+    },
+    {
+      "folder": "Mista",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Mista\\Mista.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 725,
+      "formats": {
+        "4": 91,
+        "12": 3,
+        "1": 76,
+        "10": 555
+      }
+    },
+    {
+      "folder": "Leone Abbacchio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Leone Abbacchio\\Leone Abbacchio.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1197,
+      "formats": {
+        "pcx": 1197
+      }
+    },
+    {
+      "folder": "Pannacotta Fugo",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Pannacotta Fugo\\Fugo.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1927,
+      "formats": {
+        "pcx": 1927
+      }
+    },
+    {
+      "folder": "Narancia",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Narancia\\Narancia.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 742,
+      "formats": {
+        "10": 651,
+        "11": 2,
+        "1": 77,
+        "4": 12
+      }
+    },
+    {
+      "folder": "Trish Una",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Trish Una\\Trish Una.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 785,
+      "formats": {
+        "10": 661,
+        "1": 83,
+        "4": 12,
+        "11": 21,
+        "12": 8
+      }
+    },
+    {
+      "folder": "PolnareffPart5",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\PolnareffPart5\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 287,
+      "formats": {
+        "pcx": 287
+      }
+    },
+    {
+      "folder": "Risotto",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Risotto\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 283,
+      "formats": {
+        "pcx": 283
+      }
+    },
+    {
+      "folder": "Cioccolata",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Cioccolata\\Cioccolata1.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 833,
+      "formats": {
+        "10": 733,
+        "1": 98,
+        "4": 2
+      }
+    },
+    {
+      "folder": "Secco",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Secco\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 361,
+      "formats": {
+        "pcx": 361
+      }
+    },
+    {
+      "folder": "Prosciutto",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Prosciutto\\Prosciutto_BD.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 694,
+      "formats": {
+        "pcx": 694
+      }
+    },
+    {
+      "folder": "Pesci",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Pesci\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 252,
+      "formats": {
+        "pcx": 252
+      }
+    },
+    {
+      "folder": "Ghiaccio",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Ghiaccio\\Ghiaccio.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 242,
+      "formats": {
+        "pcx": 242
+      }
+    },
+    {
+      "folder": "Melone",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Melone\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 291,
+      "formats": {
+        "pcx": 291
+      }
+    },
+    {
+      "folder": "Diavolo",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diavolo\\SPR.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 924,
+      "formats": {
+        "pcx": 924
+      }
+    },
+    {
+      "folder": "Diavolo Requiem",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diavolo Requiem\\WAV.dat",
+      "air": true,
+      "version": "1.0",
+      "sprites": 927,
+      "formats": {
+        "pcx": 927
+      }
+    },
+    {
+      "folder": "JotaroPart6",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JotaroPart6\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1731,
+      "formats": {
+        "10": 1704,
+        "12": 1,
+        "4": 26
+      }
+    },
+    {
+      "folder": "JotaroPart6v2",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JotaroPart6v2\\Jotaro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1691,
+      "formats": {
+        "4": 27,
+        "10": 1661,
+        "12": 3
+      }
+    },
+    {
+      "folder": "Jolyne",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jolyne\\Jolyne.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1179,
+      "formats": {
+        "2": 1068,
+        "1": 101,
+        "4": 10
+      }
+    },
+    {
+      "folder": "Jolynev2",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Jolynev2\\Jolyne.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1120,
+      "formats": {
+        "2": 1016,
+        "1": 96,
+        "4": 8
+      }
+    },
+    {
+      "folder": "Narciso Anasui",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Narciso Anasui\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 153,
+      "formats": {
+        "pcx": 153
+      }
+    },
+    {
+      "folder": "Hermes",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Hermes\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 268,
+      "formats": {
+        "pcx": 268
+      }
+    },
+    {
+      "folder": "Weather Report",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Weather Report\\Weather.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 789,
+      "formats": {
+        "10": 669,
+        "12": 17,
+        "1": 89,
+        "4": 9,
+        "11": 5
+      }
+    },
+    {
+      "folder": "Pucci",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Pucci\\Pucci.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 2184,
+      "formats": {
+        "10": 1767,
+        "12": 61,
+        "1": 282,
+        "4": 74
+      }
+    },
+    {
+      "folder": "Pucciv2",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Pucciv2\\Pucci.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 2159,
+      "formats": {
+        "10": 1762,
+        "12": 60,
+        "1": 263,
+        "4": 74
+      }
+    },
+    {
+      "folder": "Johnny_Joestar",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Johnny_Joestar\\Johnny_Joestar.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1356,
+      "formats": {
+        "pcx": 1356
+      }
+    },
+    {
+      "folder": "Gyro Zeppeli",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Gyro Zeppeli\\Gyro.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1087,
+      "formats": {
+        "2": 1016,
+        "1": 44,
+        "4": 27
+      }
+    },
+    {
+      "folder": "Diego",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diego\\Diego.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1240,
+      "formats": {
+        "10": 1223,
+        "11": 1,
+        "4": 16
+      }
+    },
+    {
+      "folder": "Diego Brando AU",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diego Brando AU\\DIO.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 975,
+      "formats": {
+        "4": 26,
+        "12": 2,
+        "10": 947
+      }
+    },
+    {
+      "folder": "Diego Brando AU 3",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diego Brando AU 3\\Diego Brando AU.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1007,
+      "formats": {
+        "10": 940,
+        "1": 12,
+        "4": 55
+      }
+    },
+    {
+      "folder": "Diego Brando AU 4",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Diego Brando AU 4\\Diego Brando AU.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 1007,
+      "formats": {
+        "10": 938,
+        "1": 14,
+        "4": 55
+      }
+    },
+    {
+      "folder": "Funny_Valentine",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Funny_Valentine\\Funny_Valentine.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1097,
+      "formats": {
+        "pcx": 1097
+      }
+    },
+    {
+      "folder": "Funny_Valentine 3",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Funny_Valentine 3\\Funny_Valentine.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 1097,
+      "formats": {
+        "pcx": 1097
+      }
+    },
+    {
+      "folder": "JosukeGappy",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\JosukeGappy\\Sprite.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 512,
+      "formats": {
+        "pcx": 512
+      }
+    },
+    {
+      "folder": "Yoshikage",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Yoshikage\\Yoshikage.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 928,
+      "formats": {
+        "2": 920,
+        "4": 8
+      }
+    },
+    {
+      "folder": "SakuyaIzayoi",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\SakuyaIzayoi\\SakuyaIzayoi.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 757,
+      "formats": {
+        "4": 156,
+        "10": 559,
+        "1": 42
+      }
+    },
+    {
+      "folder": "Sakuya",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Sakuya\\Sakuya.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 920,
+      "formats": {
+        "4": 169,
+        "1": 43,
+        "2": 708
+      }
+    },
+    {
+      "folder": "SakuyaIzayoi 1",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\SakuyaIzayoi 1\\SakuyaIzayoi.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 897,
+      "formats": {
+        "pcx": 897
+      }
+    },
+    {
+      "folder": "The World",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\The World\\The World.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 746,
+      "formats": {
+        "pcx": 746
+      }
+    },
+    {
+      "folder": "Star Platinum",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Star Platinum\\Star Platinum.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 747,
+      "formats": {
+        "pcx": 747
+      }
+    },
+    {
+      "folder": "Baoh",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Baoh\\Baoh.sff",
+      "air": true,
+      "version": "1.0",
+      "sprites": 885,
+      "formats": {
+        "pcx": 885
+      }
+    },
+    {
+      "folder": "Tooru",
+      "sff": "C:\\Users\\36451\\Downloads\\JOJO精致整合V6（主程序）\\chars\\Tooru\\Tooru.sff",
+      "air": true,
+      "version": "2.0",
+      "sprites": 584,
+      "formats": {
+        "2": 471,
+        "1": 77,
+        "4": 36
+      }
+    }
+  ]
+}
